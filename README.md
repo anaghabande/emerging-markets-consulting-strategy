@@ -8,6 +8,16 @@ The project examines how limited formal credit information creates barriers for 
 
 ## Bolivia Institutional Voids Consulting Project
 
+### Project Team
+
+• Anagha  
+• Carine  
+• Karthik  
+• Nishtha  
+• Valorie  
+
+This consulting project was developed collaboratively by the project team.
+
 ### Business Challenge
 
 A significant share of Bolivia's workforce operates informally. Many small business owners demonstrate reliable payment behavior through suppliers, utilities, community savings systems, and microfinance relationships but lack formal credit records that traditional banks can evaluate.
